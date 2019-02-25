@@ -8,3 +8,7 @@ The aim of this project was to develop a Generative Adverserial Network that cou
 ### Preview of the Generated Images
 ![Training Image](https://github.com/SoumyadeepJana/CelebrityFaceGeneration/blob/master/generated.png)
 
+### Inference of the Generated Samples
+*The generated samples are largely white faces due to tha lack in diversity of the images belonging to different ethnicities.
+*The model was quite small with a dept of 512,thus detailed features of eyes,ears etc couldnt be modelled acccurately.
+*The number of epochs,the dept of the layers should be increased to achieve better results.
